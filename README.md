@@ -5,6 +5,8 @@
 
 Welcome to the Heart Disease Diagnostic Analysis project! This Jupyter Notebook-based analysis delves into the realm of cardiovascular health, aiming to provide insights and actionable recommendations for better healthcare outcomes.
 
+![App Screenshot](https://github.com/priyanshurathod009/HeartHealth-Analysis/blob/main/image/image3.jpg?raw=true)
+
 ### Project Highlights:
 
 1. Extract Data📊:
